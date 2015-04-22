@@ -1,0 +1,14 @@
+{
+  "name": "SlimTutorial",
+  "version": "1.0.0",
+  "description": "Simple Slim Tutorial with Twig & Idiorm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slimtutorial"
+  ],
+  "author": "Rio Ruslan",
+  "license": "ISC"
+}

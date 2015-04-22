@@ -1,0 +1,9 @@
+{
+"require": {
+"slim/slim": "~2.6",
+"slim/views": "0.1.*",
+"twig/twig": "~1.18",
+"twbs/bootstrap": "3.3.*@dev",
+"j4mie/idiorm": "dev-master"
+}
+}
